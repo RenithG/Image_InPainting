@@ -1,6 +1,8 @@
 # Image_InPainting
 Implemented Image Inpainting algorithm using GAN in PyTorch framework.
 
+For step by step code walkthrough and to know more about Image Inpainting algorithm and its applications, you can have a look at my article in this link [How to Repair your Damaged Images with Deep Learning](https://medium.com/@renithprem/how-to-repair-your-damaged-images-with-deep-learning-cc404aec144?source=friends_link&sk=389ba8a4fcc2bc6aeb4916f956a33739)
+
 For Training the Image Inpainting with regular / square masking based on GAN, run the following python command.
 
   python Train_Image_Inpainting.py
